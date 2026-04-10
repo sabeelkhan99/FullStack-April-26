@@ -1,0 +1,9 @@
+figure{
+    border: 2px solid #ccc;
+    width: 400px;
+}
+
+/* Descendent Selector */
+figure img{
+    width: 100%;
+}
